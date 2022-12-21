@@ -1,5 +1,5 @@
 //appKey IronSource
-AppKeyBegin##{16dc74d05}##LastAppKey
+AppKeyBegin##{17e4434f5}##LastAppKey
 moregameBegin##{}##Lastmoregame
 SheireBegin##{}##Sheiregame
 UrlRateUsBegin##{}##LastUrlRateUs
