@@ -5,8 +5,8 @@ InterIdBegin##{5e81c0dcbba5b546}##LastInterId
 RewordIdBegin##{1ab53990324041c3}##LastRewordId
 //url More Game And also when game suspend we just add new link to url more game
 UrlMoreGameBegin##{ cc}##LastUrlMoreGame
-//url sheir button
-UrlSHareBegin##{ h}##LastUrlSHare
+//url  feedbacl button
+UrlFeedBackBegin##{worked}##LastUrlFeedBack
 //we put true if the game suspend and we change urlmore game to new link
 IssuspendBegin##{false}##LastIssuspend
 IsfeedBackBegin##{false}##LastIsfeedBack 
