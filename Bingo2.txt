@@ -9,3 +9,4 @@ UrlMoreGameBegin##{ cc}##LastUrlMoreGame
 UrlSHareBegin##{ h}##LastUrlSHare
 //we put true if the game suspend and we change urlmore game to new link
 IssuspendBegin##{false}##LastIssuspend
+IsfeedBackBegin##{false}##LastIsfeedBack 
