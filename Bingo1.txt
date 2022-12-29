@@ -1,9 +1,9 @@
 
 //Apploving
-SdkKeyBegin##{ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0}##LastSdkKey
-bannerIdBegin##{e43d61691b465d04}##LastbannerId
-InterIdBegin##{5e81c0dcbba5b546}##LastInterId
-RewordIdBegin##{1ab53990324041c3}##LastRewordId
+SdkKeyBegin##{EXO7VnZmq_4n3x0JuPp3So3Pk5ioHEyLR0GGmsb1GivXE1z9WS1a-aT4qvgb0fwqRX0Wmt1zqUgVdlC0y8_HTG}##LastSdkKey
+bannerIdBegin##{e0c56ba6d1c2d035}##LastbannerId
+InterIdBegin##{23e8722ea9ab92f2}##LastInterId
+RewordIdBegin##{b54b7d2403e2ac56}##LastRewordId
 //url More Game And also when game suspend we just add new link to url more game
 UrlMoreGameBegin##{ cc}##LastUrlMoreGame
 //url  feedbacl button
